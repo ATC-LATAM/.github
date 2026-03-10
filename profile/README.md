@@ -1,4 +1,4 @@
-# ATC-LATAM · `.github`
+# ATC-LATAM 
 
 Repositorio de archivos para la organización **ATC-LATAM** (Grupo de Ciencia Abierta - LATAM).
 
